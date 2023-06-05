@@ -73,6 +73,11 @@ nav a {
   
 }
 
+#Background {
+  background-color: #d0eaf3;
+  border-radius: 20%;
+}
+
   /* Style Modal inscription*/
 .modal-title {
   font-size: 1.5rem;
